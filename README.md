@@ -21,7 +21,7 @@ INSTALLED_APPS = (
         'django.contrib.admin',
         ...
 )
-```
+
 
 2. That's it.
 
